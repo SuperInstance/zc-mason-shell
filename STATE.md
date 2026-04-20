@@ -8,7 +8,7 @@
 ## Last Action: 2026-04-20 07:22 UTC
 
 ## Last Thought
-# Cycle 261 — Mason: Writing 5 Edge-Case Tests for DeadbandRoom  ## Status **Phase:** 4 (Build & Test) **Task:** Read plato-torch's DeadbandRoom preset and write 5 additional edge-case tests for it. *
+# Cycle 261 — Mason: Writing 5 Edge-Case Tests for DeadbandRoom  ## Status **Phase:** 4 (Build & Test)   **Task:** Read plato-torch's DeadbandRoom preset and write 5 additional edge-case tests for it.
 
 ## Memory
 
